@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>Biodata Diri</title>
+</head>
+<body>
+    <div style="background: #40E0D0"><p align="center"><font size="18" color="black"> Biodata Diri Afan Arizal</font></p></div>
+      
+        <h3><p align="center"><img src="images/x.jpg" width="140" height="240"></img></p></h3>
+  
+    <p align="center"><i><b><font size="5"><font color="#FF0000">Nama            : AFAN ARIZAL</font></font></b></i></p>
+      
+    <p align="center"><i><b><font size ="5"><font color="lime">Tempat Tanggal Lahir        : Pekalongan. 20 Agustus 2000</font></font></b></i></p>
+      
+    <p align="center"><i><b><font size ="5"><font color="#FF00FF">Alamat Rumah        : Dk.plumbon Ds.Winduaji Kec.Paninggaran Kab.pekalongan</font></font></b></i></p>
+  
+    <p align="center"><i><b><font size="5"><font color="#000080">No.HP / Telp        : 085740820363</font></font></b></i></p>
+  
+    <p align="center"><i><b><font size="5" color="yellow">Pendidikan        : SMK Teknik Sepeda Motor</font></b></i></p>
+  
+    <p align="center"><i><b><font size="5" color="#800000">Kegiatan        : Menjalani Kehidupan Sebagai Manusia...</font></b></i></p>
+  
+    <p align="center">BIODATA DIRI<a href="Hal-2.html">Masuk</a></p>
+</body>
+</html>
